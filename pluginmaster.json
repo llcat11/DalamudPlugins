@@ -2,7 +2,7 @@
   {
     "Author": "pinapelz",
     "Name": "PVP通行证计算器",
-    "InternalName": "Malmstone",
+    "InternalName": "MalmstoneCN",
     "AssemblyVersion": "1.0.8.3",
     "Description": "计算在达成目标系列赛等级前，各 PVP 模式所需的胜/负场数\n- 比赛结束后推送距离下一等级进度的通知\n- 追踪并显示 30 级以上的真实系列赛等级\n- 计算纷争前线的报酬补正\n\n使用 /pmalm 打开",
     "ApplicableVersion": "any",
@@ -24,8 +24,8 @@
     "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": "1758509220",
-    "DownloadLinkInstall": "https://github.com/llcat11/ffxiv-malmstone-cn/releases/download/v1.0.8.3/Malmstone.zip",
-    "DownloadLinkTesting": "https://github.com/llcat11/ffxiv-malmstone-cn/releases/download/v1.0.8.3/Malmstone.zip",
-    "DownloadLinkUpdate": "https://github.com/llcat11/ffxiv-malmstone-cn/releases/download/v1.0.8.3/Malmstone.zip"
+    "DownloadLinkInstall": "https://github.com/llcat11/ffxiv-malmstone-cn/releases/download/v1.0.8.3/MalmstoneCN.zip",
+    "DownloadLinkTesting": "https://github.com/llcat11/ffxiv-malmstone-cn/releases/download/v1.0.8.3/MalmstoneCN.zip",
+    "DownloadLinkUpdate": "https://github.com/llcat11/ffxiv-malmstone-cn/releases/download/v1.0.8.3/MalmstoneCN.zip"
   }
 ]
