@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Author": "pinapelz",
     "Name": "PVP通行证计算器",
@@ -28,5 +28,35 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/MalmstoneCN/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/MalmstoneCN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/MalmstoneCN/latest.zip"
+  },
+  {
+    "Author": "veyn",
+    "Name": "Boss Mod",
+    "InternalName": "BossMod",
+    "AssemblyVersion": "7.5.7.20",
+    "Description": "一套用于简化首领战机制的实用工具，包含机制提示、AI 自动处理和职业循环助手。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/llcat11/ffxiv_bossmod",
+    "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/icon.png",
+    "Tags": [
+      "boss",
+      "raid",
+      "combat",
+      "cn"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "别再因为副本机制翻车了",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1793758686",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip"
   }
 ]
