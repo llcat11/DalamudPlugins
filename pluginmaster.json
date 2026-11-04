@@ -45,11 +45,11 @@
       "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
       "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
     ],
-    "DownloadLinkInstall": "https://github.com/llcat11/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/llcat11/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/llcat11/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1793758686"
   }
