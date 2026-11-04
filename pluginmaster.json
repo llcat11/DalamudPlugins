@@ -32,31 +32,25 @@
   {
     "Author": "veyn",
     "Name": "Boss Mod",
+    "Punchline": "别再因为副本机制翻车了",
+    "Description": "一套用于简化首领战机制的实用工具，包含机制提示、自动处理和职业循环助手。",
     "InternalName": "BossMod",
     "AssemblyVersion": "7.5.7.20",
-    "Description": "一套用于简化首领战机制的实用工具，包含机制提示、AI 自动处理和职业循环助手。",
-    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/llcat11/ffxiv_bossmod",
-    "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/icon.png",
-    "Tags": [
-      "boss",
-      "raid",
-      "combat",
-      "cn"
-    ],
+    "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "别再因为副本机制翻车了",
-    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/llcat11/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/llcat11/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/llcat11/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1793758686",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip"
+    "LastUpdate": "1793758686"
   }
 ]
