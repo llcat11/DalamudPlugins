@@ -52,5 +52,36 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/BossMod/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1793758686"
+  },
+  {
+    "Author": "llcat11",
+    "Name": "Automaton (CBT-CN)",
+    "InternalName": "Automaton",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "又一个功能调整插件合集，包含自动化、任务管理、UI增强等多种实用功能。本版本为完整中文汉化，界面与游戏内提示已全部翻译。\n\n主要功能：\n- 自动化任务（自动跟随、自动邀请、自动重登录）\n- FATE 追踪器（智能 FATE 刷取与进度监控）\n- 成就追踪（实时成就进度检查）\n- 多开工具（本地多开实例管理与同步）\n- 副本增强（自动离开、副本设置推送）\n- 聊天增强（自动回复、转发、GM 警报）\n- 装备管理（自动装备推荐、套装管理）\n- 狩猎助手（狩猎目标转发与提醒）\n\n使用 /cbt 打开主菜单",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/llcat11/ffxiv-bundleoftweaks-cn",
+    "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/icon.png",
+    "Tags": [
+      "automation",
+      "tweaks",
+      "ui",
+      "chinese",
+      "ffxiv"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "功能调整插件合集 - 完整中文汉化版",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1794672000",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/latest.zip"
   }
 ]
