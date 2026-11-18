@@ -113,5 +113,37 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/latest.zip"
+  },
+  {
+    "Author": "Ice (llcat11 汉化)",
+    "Name": "Gather & Chill (CN)",
+    "InternalName": "GatherChill",
+    "AssemblyVersion": "1.0.0.5",
+    "Description": "一款帮你搞定采集需求的插件：自动采集物品、自动施加采集增益，省去重复操作的枯燥。\n\n主要功能：\n- 物品清单与数量管理（采集 / 保留两种模式）\n- 保存多套采集清单，支持导入 Teamcraft / Artisan 清单\n- 限时采集点出现时间追踪与路线规划\n- 自动坐骑 / 飞行、以太之光传送、循环后返回（需 Lifestream）\n- 自动使用强心剂、修理、精炼提取\n\n需要安装 vnavmesh（寻路）。\n本版本为完整中文汉化，界面、提示与日志均已翻译。\n\n使用 /gatherchill 打开",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeontopodiumNivale14/Gather-Chill",
+    "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/GatherChill/icon.png",
+    "Tags": [
+      "gather",
+      "miner",
+      "botanist",
+      "fisher",
+      "chinese",
+      "ffxiv"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "我们都需要的好用采集伙伴（中文汉化版）",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1794983659",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/GatherChill/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/GatherChill/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/GatherChill/latest.zip"
   }
 ]
