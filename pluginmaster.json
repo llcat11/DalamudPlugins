@@ -83,5 +83,35 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/latest.zip"
+  },
+  {
+    "Author": "veyn (llcat11 汉化)",
+    "Name": "vsatisfy (CN)",
+    "InternalName": "vsatisfy",
+    "AssemblyVersion": "0.0.0.50",
+    "Description": "通过自动化流程减少老主顾交付的烦恼：自动传送、购买素材、制作、采集、钓鱼与交付。\n\n所需插件：vnavmesh、Artisan、Gather n Chill\n本版本为中文汉化版，界面与提示均已汉化。\n\n使用 /vsatisfy 打开主窗口",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/llcat11/ffxiv_satisfy",
+    "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/icon.png",
+    "Tags": [
+      "automation",
+      "deliveries",
+      "chinese",
+      "ffxiv"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "自动老主顾交付（制作/采集/钓鱼）",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1794978704",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/latest.zip"
   }
 ]
